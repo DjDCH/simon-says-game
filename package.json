@@ -1,0 +1,16 @@
+{
+  "name": "simon-says-game",
+  "description": "Simon Says game for the Novation Launchpad.",
+  "keywords": ["simon", "says", "game", "multiplayer", "launchpad", "novation"],
+  "author": "DjDCH <coding@djdch.com> (http://djdch.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DjDCH/simon-says-game.git"
+  },
+  "main": "simon-says-game.js",
+  "version": "0.1.0",
+  "license": "MIT",
+  "dependencies": {
+    "launchpad-app": "git://github.com/DjDCH/launchpad-app.git"
+  }
+}
