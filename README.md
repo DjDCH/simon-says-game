@@ -6,7 +6,11 @@ Simon Says game for the Novation Launchpad using the launchpad-app library.
 Installation
 ------------
 
-Use npm to install:
+First, download and install the Launchpad drivers from the Novation website:
+
+* http://global.novationmusic.com/support/product-downloads?product=Launchpad
+
+Then, use npm to install:
 
     npm install simon-says-game
 
