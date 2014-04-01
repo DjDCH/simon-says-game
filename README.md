@@ -14,7 +14,7 @@ First, download and install the Launchpad drivers from the Novation website:
 
 Use npm to install:
 
-    npm install simon-says-game
+    npm install simon-says-game --save
 
 ### Standalone
 

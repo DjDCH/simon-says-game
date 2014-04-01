@@ -8,9 +8,9 @@
     "url": "https://github.com/DjDCH/simon-says-game.git"
   },
   "main": "simon-says-game.js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "dependencies": {
-    "launchpad-app": "git://github.com/DjDCH/launchpad-app.git"
+    "launchpad-app": "~0.4.0"
   }
 }
