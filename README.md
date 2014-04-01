@@ -10,13 +10,21 @@ First, download and install the Launchpad drivers from the Novation website:
 
 * http://global.novationmusic.com/support/product-downloads?product=Launchpad
 
-Then, use npm to install:
+### As a dependency
+
+Use npm to install:
 
     npm install simon-says-game
 
-Or, clone this repository:
+### Standalone
+
+Clone this repository:
 
     git clone https://github.com/DjDCH/simon-says-game.git
+
+Then, use npm to install to install the dependencies:
+
+    npm install
 
 Usage
 -----
